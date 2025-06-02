@@ -6,7 +6,7 @@ import dataScienceImage from "../Assets/DataScience.jpg";
 import cfImage from "../Assets/CF.jpg";
 import cyberSecurityImage from "../Assets/CyberSecurity.jpg";
 import roboticsImage from "../Assets/Robotics.jpg";
-import mernImage from "../Assets/MERN.jpg";
+import mernImage from "../Assets/Mern.jpg";
 import mlImage from "../Assets/ML.jpg";
 
 
