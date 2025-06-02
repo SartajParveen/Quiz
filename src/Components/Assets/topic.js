@@ -1,13 +1,13 @@
 
-import aiImage from "../assets/AI.jpg";
-import cloudImage from "../assets/Cloud.jpg";
-import quantumImage from "../assets/Quantum.jpg";
-import dataScienceImage from "../assets/DataScience.jpg";
-import cfImage from "../assets/CF.jpg";
-import cyberSecurityImage from "../assets/CyberSecurity.jpg";
-import roboticsImage from "../assets/Robotics.jpg";
-import mernImage from "../assets/MERN.jpg";
-import mlImage from "../assets/ML.jpg";
+import aiImage from "../Assets/AI.jpg";
+import cloudImage from "../Assets/Cloud.jpg";
+import quantumImage from "../Assets/Quantum.jpg";
+import dataScienceImage from "../Assets/DataScience.jpg";
+import cfImage from "../Assets/CF.jpg";
+import cyberSecurityImage from "../Assets/CyberSecurity.jpg";
+import roboticsImage from "../Assets/Robotics.jpg";
+import mernImage from "../Assets/MERN.jpg";
+import mlImage from "../Assets/ML.jpg";
 
 
 
