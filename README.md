@@ -1,5 +1,5 @@
 
-### ❓ **Quiz App**  
+###  **Quiz App**  
 # 📝 Quiz App (MERN)
 
 A timed quiz app of different categories that stores scores.
